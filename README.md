@@ -1,6 +1,7 @@
 # Abstract-Art-Generation-with-Neural-Networks
 
 Using a Neural Network (I built from scratch) the model is able to output uniquely weird "paintings"
+Attached is the paper "State-of-the-art in artificial neural network applications: A survey" --> the real inspiration to this project
 
 Here are some great examples
 
